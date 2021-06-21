@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![WhatsApp_Clone](https://user-images.githubusercontent.com/53809659/122782068-08f06400-d2ce-11eb-8dee-227c6798cf52.png)
+![WhatsApp_Clone](https://user-images.githubusercontent.com/53809659/122782068-08f06400-d2ce-11eb-8dee-227c6798cf52.png) height= 30
